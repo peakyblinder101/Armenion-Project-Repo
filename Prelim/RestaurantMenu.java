@@ -44,7 +44,7 @@ public class RestaurantMenu {
 		  			add = scan.next();
 		  			
 		  			if(add.equals("yes") || add.equals("Yes")){
-		  			System.out.println("\nWhat do you want to order on Add Ons? ");
+		  			System.out.println("\nWhat do you want to order on Add Ons R1,R2? ");
 		  			order = scan.next();
 		  			
 		  			System.out.println("\nAdd Ons									Quantity");
